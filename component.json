@@ -1,0 +1,16 @@
+{
+  "name": "isElement",
+  "version": "0.0.1",
+  "description": "check if a value is an element",
+  "repo": "ramitos/isElement",
+  "keywords": ["documet", "isElement"],
+  "homepage": "https://github.com/ramitos/isElement",
+  "license": "MIT",
+  "author": "Sérgio Ramos <mail@sergioramos.me> (http://sergioramos.me)",
+  "twitter": "@ramitos",
+  "main": "src/isElement.js",
+  "scripts": ["src/isElement.js"],
+  "dependencies": {
+    "component/type": "*"
+  }
+}
