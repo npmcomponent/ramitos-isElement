@@ -1,0 +1,14 @@
+{
+  "name": "ramitos-iselement",
+  "description": "check if a value is an element",
+  "version": "0.0.2",
+  "keywords": [
+    "documet",
+    "isElement"
+  ],
+  "main": "src/isElement.js",
+  "dependencies": {
+    "component-type": "git://github.com/npmcomponent/component-type.git"
+  },
+  "license": "MIT"
+}
